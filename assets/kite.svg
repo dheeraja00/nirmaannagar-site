@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="110" viewBox="0 0 48 110">
+  <!-- A patang, as the game's kite season flies them: a diamond in two colours with its spine, bow and a short tail; the string falls away below. -->
+  <path d="M24 2 L46 26 L24 54 L2 26 Z" fill="#e2457c"/>
+  <path d="M24 2 L46 26 L24 26 Z M24 26 L2 26 L24 54 Z" fill="#fcc21b"/>
+  <path d="M24 2 L24 54 M4 26 Q24 14 44 26" fill="none" stroke="#5a2a14" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M24 54 L20 64 L28 64 Z" fill="#1d4fa2"/>
+  <path d="M24 64 C 22 76 28 86 25 108" fill="none" stroke="rgba(244,236,216,.75)" stroke-width="1"/>
+</svg>

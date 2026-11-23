@@ -558,7 +558,7 @@ background: linear-gradient(var(--cap-hi), var(--cap)); border-bottom: 2.5px sol
 @media (max-width: 699px) {
 .sky-band { display: flex; flex-direction: column; min-height: 0; }
 .sky-in { order: 1; width: 100%; }
-.sky-town { order: 2; position: relative; right: auto; bottom: auto; width: 150%; max-width: none; margin: -6px 0 -46% -25%; }
+.sky-town { order: 2; position: relative; right: auto; bottom: auto; width: min(150%, 640px); max-width: none; margin: -6px 0 -46% -25%; }
 .sky-thin .sky-town { margin: 0 0 -58% -25%; }
 .doc .sky-thin + .sheet { margin-top: -36px; }
 }
